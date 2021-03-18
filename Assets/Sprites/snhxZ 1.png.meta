@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: d037ef20e46275e479549f81b09eb55b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6057013281996378777
+    second: snhxZ_0
+  - first:
+      213: 5961020263701684374
+    second: snhxZ_1
+  - first:
+      213: 832129772291179308
+    second: snhxZ_2
+  - first:
+      213: 5129981652336490150
+    second: UP
+  - first:
+      213: 7089177909185608142
+    second: RIGHT
+  - first:
+      213: 7629834792467877704
+    second: snhxZ_5
+  - first:
+      213: -5512011355749147856
+    second: snhxZ_6
+  - first:
+      213: 8103737476070295622
+    second: LEFT
+  - first:
+      213: 8436356650632563562
+    second: DOWN
+  - first:
+      213: 1188509396976370460
+    second: snhxZ_9
+  - first:
+      213: -5348747126335711703
+    second: snhxZ_10
+  - first:
+      213: 7863334779954982298
+    second: snhxZ_11
+  - first:
+      213: -1655174059738287937
+    second: Apple
+  - first:
+      213: -9075163849371874658
+    second: snhxZ_13
+  - first:
+      213: -2561009061144691711
+    second: snhxZ_14
+  - first:
+      213: 3081037407992882422
+    second: snhxZ_15
+  - first:
+      213: -6565774172824493279
+    second: snhxZ_16
+  - first:
+      213: 8449454036090246570
+    second: snhxZ_17
+  - first:
+      213: 3645381647023601728
+    second: snhxZ_18
+  - first:
+      213: -5563793744987207591
+    second: snhxZ_0
+  - first:
+      213: -1383677058965002504
+    second: snhxZ_1
+  - first:
+      213: 3176324578237946854
+    second: snhxZ_2
+  - first:
+      213: -1745438002610191034
+    second: UP
+  - first:
+      213: 4534706654846609072
+    second: RIGHT
+  - first:
+      213: 2118691147632682708
+    second: snhxZ_5
+  - first:
+      213: -4500073932625681351
+    second: snhxZ_6
+  - first:
+      213: 8826491946714770578
+    second: LEFT
+  - first:
+      213: 8812282080843176486
+    second: DOWN
+  - first:
+      213: 8223423037172080112
+    second: snhxZ_9
+  - first:
+      213: -3058614043408317856
+    second: snhxZ_10
+  - first:
+      213: 7047462794581524992
+    second: snhxZ_11
+  - first:
+      213: -9153808384513209959
+    second: Apple
+  - first:
+      213: 4274832139155195057
+    second: snhxZ_13
+  - first:
+      213: -7416204465084180579
+    second: snhxZ_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100.01
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Apple
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9990913f5c327f080800000000000000
+      internalID: -9153808384513209959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
